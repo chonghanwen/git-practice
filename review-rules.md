@@ -5,7 +5,7 @@
 Highlight significant variances where:
 
 - Percentage variance is greater than 10%; or
-- Absolute variance is greater than RM100,000.
+- Absolute variance is greater than RM50,000.
 
 ## Revenue
 
